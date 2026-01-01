@@ -25,4 +25,4 @@ An AI-powered system that converts spoken audio into structured business insight
 Upload an audio file and receive analyzed results.
 
 ## Author
-Your Name
+Jayesh Revekar
